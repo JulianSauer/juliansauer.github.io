@@ -1,0 +1,25 @@
+baseURL = "https://julian-sauer.com"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+
+theme = "hugo-scroll"
+
+title = "Julian Sauer"
+
+[params]
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Software Engineer"
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/favicon.png"
+
+    images = ["images/cover-image.jpg"]
+
+    title = "Julian Sauer"
+
+    hidedesignbyline = true
+
+    [params.meta]
+        keywords = ""
