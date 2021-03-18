@@ -1,4 +1,4 @@
-baseURL = "https://julian-sauer.com"
+baseURL = "https://juliansauer.github.io/"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
