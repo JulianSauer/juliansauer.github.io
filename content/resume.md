@@ -1,5 +1,5 @@
 ---
-title: "Julian Sauer - Resume"
+title: "Resume"
 weight: 1
 header_menu: true
 ---
@@ -72,9 +72,9 @@ header_menu: true
 - Scrum, Kanban
 - CI/CD
 - Testdriven Development
-- Problemlösungskompetenzen
-- Kommunikationsfähigkeit, Teamarbeit
-- Zeitmanagement
+- Problem solving
+- Communication, teamwork
+- Time management
 
 ------------------------------------------------------------------------------------------------------
 
@@ -84,7 +84,9 @@ header_menu: true
 **adesso SE**  
 *10/2021 - today*
 
-Roles:
+**Technologies:** Java, Spring, Maven, Docker, Microsoft Azure, Kafka, Gitlab, Flyway, Hibernate, PostgreSQL, Thymeleaf
+
+**Roles:**
 - Software developer (Backend)
 
 ------------------------------------------------------------------------------------------------------
@@ -93,7 +95,9 @@ Roles:
 **adesso SE**  
 *03/2021 - 09/2021*
 
-Roles:
+**Technologies:** Java, Spring, Thymeleaf, Maven, Feign
+
+**Roles:**
 - Software developer (Fullstack)
 
 ------------------------------------------------------------------------------------------------------
@@ -102,7 +106,9 @@ Roles:
 **adesso SE**  
 *01/2021 - 03/2021*
 
-Roles:
+**Technologies:** Java, Spring Boot, VueJS, Docker, Jenkins, Artifactory
+
+**Roles:**
 - Software developer (Fullstack)
 - DevOps
 
@@ -112,7 +118,9 @@ Roles:
 **adesso SE**  
 *07/2020 - 03/2021*
 
-Roles:
+**Technologies:** Java, Spring Boot, MariaDB, Gradle, Keycloak
+
+**Roles:**
 - Software developer (Backend)
 - Technical contact
 
@@ -120,9 +128,11 @@ Roles:
 
 #### Coaching and further development of a migrated COBOL application for a state office
 **adesso SE**  
-*10/2019 - 12/202*
+*10/2019 - 12/2020*
 
-Roles:
+**Technologies:** Java, Java Enterprise Edition, Spring
+
+**Roles:**
 - Software developer (Backend)
 - Coach
 
@@ -143,7 +153,9 @@ For example the complexity of the Maximum-Cut Problem on such a graph can be red
 **adesso SE/com2m GmbH**  
 *11/2018 - 09/2019*
 
-Roles:
+**Technologies:** Java, Spring, Angular, Typescript, Docker, Neo4j, MongoDB
+
+**Roles:**
 - Software developer (Fullstack)
 
 ------------------------------------------------------------------------------------------------------
@@ -152,7 +164,9 @@ Roles:
 **adesso SE**  
 *07/2017 - 11/2018*
 
-Roles:
+**Technologies:** Docker, Jenkins, Maven, Java
+
+**Roles:**
 - DevOps
 
 ------------------------------------------------------------------------------------------------------
@@ -161,7 +175,9 @@ Roles:
 **Technical University of Dortmund**  
 *03/2017 - 02/2018*
 
-Roles:
+**Technologies:** C++, CMake, CppLint, Boost, seqan, SDSL, GCSA2, zlib
+
+**Roles:**
 - Software developer
 - Deputy project manager
 - Scrum master
@@ -175,3 +191,14 @@ Roles:
 This study evaluates several possiblities to interact with infrastructure of cloud providers like Amazon Web Services or Microsoft Azure.
 As a test case a server instance should be provisioned, an example application should be deployed on a web server on said server instance and the application should be accessible via the internet.
 The evaluated interfaces are Apache jclouds, Apache Libcloud and fog which are used to run the test case on Amazon Web Services, Google Cloud Platform, Microsoft Azure, DigitalOcean and ProfitBricks.
+
+------------------------------------------------------------------------------------------------------
+
+### Website for editing and ordering personalized credit cards
+**adesso SE**
+*04/2016 - 07/2016*
+
+**Technologies:** Java, Javascript, HTML, CSS
+
+**Roles:**
+- Software developer
