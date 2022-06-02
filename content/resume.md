@@ -27,7 +27,7 @@ header_menu: true
 | 3 weeks internship as a software developer |                   |
 |                                            |                   |
 | **ISIS IC GmbH**                           | 2012              |
-| Scholastic semianr paper about GPS systems |                   |
+| Scholastic seminar paper about GPS systems |                   |
 
 
 ## Education
