@@ -33,7 +33,7 @@ header_menu: true
 ## Education
 |                                                        |             |
 | ------------------------------------------------------ | ----------- |
-| **AWS Certified Cloud Practitioner**                   | 2020        |
+| **AWS Certified Cloud Practitioner**                   | 2021       |
 |                                                        |             |
 | **M. Sc. Computer Science**                            | 2016 - 2019 |
 | Technical University of Dortmund                          |             |
