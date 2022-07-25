@@ -21,10 +21,10 @@ header_menu: true
 | Internship as a software developer         |                   |
 |                                            |                   |
 | **Comidos Software GmbH**                  | 2014              |
-| 5 weeks internship as a software developer |                   |
+| 5 weeks of internship as a software developer |                   |
 |                                            |                   |
 | **validData GmbH**                         | 2013              |
-| 3 weeks internship as a software developer |                   |
+| 3 weeks of internship as a software developer |                   |
 |                                            |                   |
 | **ISIS IC GmbH**                           | 2012              |
 | Scholastic seminar paper about GPS systems |                   |
@@ -78,9 +78,9 @@ header_menu: true
 
 ------------------------------------------------------------------------------------------------------
 
-## Projects
+## Portfolio
 
-#### Platform for managing the energy grid of a energy company
+#### Platform for managing the energy grid of an energy company
 **adesso SE**  
 *10/2021 - today*
 
