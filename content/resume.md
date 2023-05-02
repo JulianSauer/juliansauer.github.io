@@ -8,7 +8,10 @@ header_menu: true
 ## Working experience
 |                                            |                   |
 | ------------------------------------------ | ----------------- |
-| **adesso SE**                              | Since 10/2019     |
+| **Zalando Payments GmbH**                  | Since 05/2023     |
+| Software Engineer                          |                   |
+|                                            |                   |
+| **adesso SE**                              | 10/2019  04/2023  |
 | Software Engineer                          |                   |
 |                                            |                   |
 | **adesso SE**                              | 02/2017 - 09/2019 |
