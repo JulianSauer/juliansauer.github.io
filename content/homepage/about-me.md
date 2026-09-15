@@ -8,6 +8,6 @@ After completing my bachelor's degree in informatics - software systems at the W
 
 Since I wrote my bachelor thesis at adesso SE, I reentered the company as well as their subsidiary com2m GmbH during my master's degree as a working student and began working full time after finishing it.
 
-After 7 years I switched jobs and started working at Zalando in the FinTech area.
+After 7 years I switched jobs and started working at Zalando Payments GmbH in 2023 in the payments processing department. I worked in the team Alternative Payments Methods (e.g. Paypal, Klarna) and in the summer of 2026 switched to the team Capture and Refund Orchestration.
 
 [Here]({{< ref "/resume" >}} "Resume - Julian Sauer") is a more detailed version of my resume.
